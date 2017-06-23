@@ -1,0 +1,13 @@
+{
+  "name": "functional-refactorings",
+  "version": "1.0.0",
+  "dependencies": {
+    "ramda": "latest"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha ./test/*.spec.js"
+  }
+}
